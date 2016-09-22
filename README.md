@@ -1,0 +1,2 @@
+# CoreGoN
+CoreGoN .net core
